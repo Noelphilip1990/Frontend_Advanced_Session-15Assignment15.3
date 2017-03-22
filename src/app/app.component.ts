@@ -8,7 +8,7 @@ import { ListService } from './wiki.service'
   providers: [ListService]
 })
 export class AppComponent {
-  title: string = "Assignment 15.2"
+  title: string = "Assignment 15.3"
 
   constructor( ){
     
